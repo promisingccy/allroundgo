@@ -1,2 +1,2 @@
-# allroundgo
-all round things about golang
+# all-round go
+all round things or examples about golang
